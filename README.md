@@ -45,3 +45,15 @@ To prepare the data for analysis, I merged the three datasets based on their com
 
 ### Analysis by timing of release
 ![release](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20release.JPG)
+
+## Conclusions
+The main aim of this analysis was to examine what kind of films perform the best at the box office. The analysis relied on financial success as the measure of movie success and examined genre, production cost, studio and timing of release relative to financial success of a movie. The results showed that the most sccessful film genres are action and adventure movies. The analysis also revealed production budget as a significant contributor to box office success with movies with higher production budgets tending to yield higher average revenues. Further, the results also showed that release by a major studio had a positive impact on movie success. Major studios like Buena Vista, Dream Works, Fox, Sony and Warner Bros exhibited a history of producing films with consistently high revenues. Finally, the results highlighted a positive relationship between release time and movie success. Movies released around summer (May, June,July) and holiday seasons (November, December) earn higher revenues compared to other months.
+
+## Recommedations 
+Based on my findings, I recommend that Microsoft considers producing more movies in the action and adventure genres. Since these genres tend to yield higher revenues compared to other genres, producing more movies in these genres may increase their chances of success at the box office. Secondly, Microsoft should allocate higher budgets to movies to increase the chances of generating higher revenues. Finally, Microsoft should consider partnering with the studios that have a history of producing films with consistently high revenues to increase the chances of success at the box office.
+
+## References
+* [Scott, G.(2019). Determinants of Box Office Performance: Return of the Regressions," Major Themes
+in Economics, 21, 71-83](https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1143&context=mtie)
+* [Pangarker, N. & Smit E. (2013). The determinants of box office performance in the film industry revisited: South African Journal of Business Management, 44(3)](https://www.researchgate.net/publication/281730174_The_determinants_of_box_office_performance_in_the_film_industry_revisited)
+* [The Movie Database](https://www.themoviedb.org/talk/5daf6eb0ae36680011d7e6ee)
