@@ -1,4 +1,4 @@
-## Project overview
+## Introduction
 
 The demand for original content has grown exponentially across the globe, partly due to the rise of streaming platforms like Netflix, Amazon Prime, Hulu, and Disney + among others. This has opened up many new pathways for those interested in gaining a foothold in the film industry. Now, more studios are exploring ways to join in on the fun.
 
