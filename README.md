@@ -36,18 +36,22 @@ To prepare the data for analysis, I merged the three datasets based on their com
 
 ### Analysis by genre
 ![genre](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20genre.JPG)
+
 While most movies in the dataset are categorized across multiple genres, the top 10 highest grossing movie genres have elements of action and adventure across the board.
 
 ### Analysis by production budget
 ![budget](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20production%20budget.JPG)
+
 The scatterplot shows a positive linear relationship between the production budget and worldwide gross, which indicates that movies with higher production budgets tend to have higher worldwide grosses. However, there is also quite a bit of variability in the data, with some movies having high worldwide grosses despite relatively low production budgets, and vice versa.
 
 ### Analysis by studio
 ![studio](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20studio.JPG)
+
 From this graph, it is evident that major studios like Buena Vista(BV), Dream Works (P/DW) , Fox, Sony, WB NL(Warner Bros New Line), WB (Warner Bros), Universal(Uni), Paramount(Par), Strand, UTV, and MGM produced the highest grossing movies. Buena Vists studios had the highest number of top performing movies by revenue.
 
 ### Analysis by timing of release
 ![release](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20release.JPG)
+
 This graph highlighlights months of peak audience for movie attendance. The highest grossing movies were released between May, June and July with the top grossing movies released in June, followed by May, then July. Moreover, many top grossing movies were also released in November and December.
 
 ## Conclusion
