@@ -36,21 +36,25 @@ To prepare the data for analysis, I merged the three datasets based on their com
 
 ### Analysis by genre
 ![genre](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20genre.JPG)
+While most movies in the dataset are categorized across multiple genres, the top 10 highest grossing movie genres have elements of action and adventure across the board.
 
 ### Analysis by production budget
 ![budget](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20production%20budget.JPG)
+The scatterplot shows a positive linear relationship between the production budget and worldwide gross, which indicates that movies with higher production budgets tend to have higher worldwide grosses. However, there is also quite a bit of variability in the data, with some movies having high worldwide grosses despite relatively low production budgets, and vice versa.
 
 ### Analysis by studio
 ![studio](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20studio.JPG)
+From this graph, it is evident that major studios like Buena Vista(BV), Dream Works (P/DW) , Fox, Sony, WB NL(Warner Bros New Line), WB (Warner Bros), Universal(Uni), Paramount(Par), Strand, UTV, and MGM produced the highest grossing movies. Buena Vists studios had the highest number of top performing movies by revenue.
 
 ### Analysis by timing of release
 ![release](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20release.JPG)
+This graph highlighlights months of peak audience for movie attendance. The highest grossing movies were released between May, June and July with the top grossing movies released in June, followed by May, then July. Moreover, many top grossing movies were also released in November and December.
 
-## Conclusions
+## Conclusion
 The main aim of this analysis was to examine what kind of films perform the best at the box office. The analysis relied on financial success as the measure of movie success and examined genre, production cost, studio and timing of release relative to financial success of a movie. The results showed that the most sccessful film genres are action and adventure movies. The analysis also revealed production budget as a significant contributor to box office success with movies with higher production budgets tending to yield higher average revenues. Further, the results also showed that release by a major studio had a positive impact on movie success. Major studios like Buena Vista, Dream Works, Fox, Sony and Warner Bros exhibited a history of producing films with consistently high revenues. Finally, the results highlighted a positive relationship between release time and movie success. Movies released around summer (May, June,July) and holiday seasons (November, December) earn higher revenues compared to other months.
 
 ## Recommedations 
-Based on my findings, I recommend that Microsoft considers producing more movies in the action and adventure genres. Since these genres tend to yield higher revenues compared to other genres, producing more movies in these genres may increase their chances of success at the box office. Secondly, Microsoft should allocate higher budgets to movies to increase the chances of generating higher revenues. Finally, Microsoft should consider partnering with the studios that have a history of producing films with consistently high revenues to increase the chances of success at the box office.
+Based on my findings, I recommend that Microsoft considers producing more movies in the action and adventure genres. It can pilot movies within these genres and assess their performance. Since these genres tend to yield higher revenues compared to other genres, producing more movies in these genres may increase their chances of success at the box office. Secondly, Microsoft should allocate higher budgets to movies to increase the chances of generating higher revenues. Finally, Microsoft should consider partnering with the studios that have a history of producing films with consistently high revenues to increase its chances of success at the box office.
 
 ## References
 * [Scott, G.(2019). Determinants of Box Office Performance: Return of the Regressions," Major Themes
