@@ -35,7 +35,7 @@ To prepare the data for analysis, I merged the three datasets based on their com
 ## Visualizations
 
 ### Analysis by genre
-![genre](http://localhost:8888/view/dsc-phase-1-project/analysis%20by%20genre.JPG)
+![analysis by genre.JPG]
 
 ### Analysis by production budget
 ![budget](http://localhost:8888/view/dsc-phase-1-project/analysis%20by%20production%20budget.JPG)
