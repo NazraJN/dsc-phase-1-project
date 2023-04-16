@@ -46,7 +46,7 @@ The scatterplot shows a positive linear relationship between the production budg
 ### Analysis by studio
 ![studio](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20studio.JPG)
 
-From this graph, it is evident that major studios like Buena Vista(BV), Dream Works (P/DW) , Fox, Sony, WB NL(Warner Bros New Line), WB (Warner Bros), Universal(Uni), Paramount(Par), Strand, UTV, and MGM produced the highest grossing movies. Buena Vists studios had the highest number of top performing movies by revenue.
+From this graph, it is evident that major studios like Buena Vista(BV), Dream Works (P/DW) , Fox, Sony, WB NL(Warner Bros New Line), WB (Warner Bros), Universal(Uni), Paramount(Par), Strand, UTV, and MGM produced the highest grossing movies. Buena Vista studios had the highest number of top performing movies by revenue.
 
 ### Analysis by timing of release
 ![release](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20release.JPG)
