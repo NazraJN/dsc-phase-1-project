@@ -41,7 +41,7 @@ To prepare the data for analysis, I merged the three datasets based on their com
 ![budget](http://localhost:8888/view/dsc-phase-1-project/analysis%20by%20production%20budget.JPG)
 
 ### Analysis by studio
-![studio](http://localhost:8888/view/dsc-phase-1-project/analysis%20by%20studio.JPG)
+![studio](https://github.com/NazraJN/dsc-phase-1-project/blob/master/analysis%20by%20studio.JPG)
 
 ### Analysis by timing of release
 ![release](http://localhost:8888/view/dsc-phase-1-project/analysis%20by%20release.JPG)
